@@ -1,4 +1,4 @@
-# SaveIt
+# dotGmail
 
 A Flutter project which helps to create different gmail url linked to same gmail account helping you to customize your mail box.
 
