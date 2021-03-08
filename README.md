@@ -17,7 +17,7 @@ A Flutter project which helps to create different gmail url linked to same gmail
 
 # License
 
-    Copyright (c) 2020 Nikhil Katariya
+    Copyright (c) 2021 Nikhil Katariya
 
     You are not allowed to use any of these files attached here within these project without my permission
     if found using it you will be under trouble from my organisation. If you want to use file(s) or some code
